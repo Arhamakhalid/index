@@ -1,0 +1,241 @@
+.sm{
+    color: rgb(2, 2, 105);
+    font-family: 'Fredoka One', cursive;
+    cursor: pointer;
+}
+.ho{
+    color: grey;
+}
+.ho:hover{
+    color: blue;
+}
+
+.main{
+    margin-left: 180px;
+    padding: 18px;
+    color: grey;
+}
+.main:hover{
+    color: blue;
+}
+
+.log{
+    color: grey;
+}
+.log:hover{
+    color: blue;
+}
+.sig{
+    width: 80px ;
+    height: fit-content;
+}
+.img{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://demo.epic-webdesign.com/tf-smart/v1/images/ui-design.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: -450px;
+}
+.icon{
+    margin: 6px;
+    margin-top: 10px;
+}
+.but{
+    padding: 10px;
+}
+.dis{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ball{
+    margin-top: 150px;
+}
+.text{
+    color: rgb(1, 1, 92);
+    font-family: 'Fredoka One', cursive;
+    margin-top: 100px;
+}
+.two{
+    margin-top: 70px;
+    margin-left: 174px;
+}
+.xx{
+    margin-left: 100px;
+}
+.ee{
+    color: rgb(8, 8, 85);
+}
+.gg{
+    height: 100vh;
+    background-image: url('https://demo.epic-webdesign.com/tf-smart/v1/images/testimonials3.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.mx{ 
+    position: relative;
+    left: 580px;
+    bottom: 428px;
+}
+.tru{
+    position: absolute;
+    top: 1850px;
+    left: 520px;
+    font-family:'Fredoka One', cursive ;
+    color: rgb(5, 5, 80);
+}
+.purple{
+    margin: 100px;
+}
+.pen{
+    position: absolute;
+    top: 1950px;
+    padding: 15px;
+    margin-left: 30px;
+}
+.beige{
+    position: absolute;
+    top: 2080px;
+    padding: 15px;
+    margin-left: 100px;
+}
+.yellow{
+    position: absolute;
+    top: 2080px;
+    padding: 15px;
+}
+.white{
+    position: absolute;
+    top: 2080px;
+    padding: 15px;
+    margin-left: -70px;
+}
+.black{
+    position: absolute;
+    top: 2080px;
+    padding: 15px;
+    margin-left: -160px;
+}
+.cover{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://demo.epic-webdesign.com/tf-smart/v1/images/digital-marketing.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: -560px;
+}
+.mns{
+position: absolute;
+top: 2900px;
+left: 500px;
+}
+.tex{
+    margin-left: 50px;
+}
+.gr{
+    margin-top: 80px;
+}
+.zz{
+    margin-left: 55px;
+    color: orangered;
+}
+.auto{
+    margin-top: -20px;
+}
+.yy{
+    position: absolute;
+    left: 895px;
+}
+.arha{
+    margin-top: 100px;
+}
+.girl{
+    margin-top: 150px;  
+}
+.bab{
+    margin-top: 60px;
+
+}
+.ba{
+    margin-top: 30px;
+}
+.tia{
+    color: blue;
+    outline: auto;
+    width: 150px;
+    padding: 6px;
+    margin-top: 10px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.tia:hover{
+    color: white;
+    background-color: blue;
+    border: none;
+}
+.dd{
+    margin-top: -375px;
+    margin-left: 800px;
+}
+.ort{
+    position: absolute;
+    left: 170px;
+    bottom: -4770px;
+}
+.dar{
+    margin-top: 150px;
+    height: 500px;
+}
+.ter{
+    margin-top: 30px;
+}
+.sheh{
+    position: absolute;
+    left: 558px;
+    bottom: -4770px;
+}
+.peac{
+    position: absolute;
+    left: 925px;
+    bottom: -4770px;
+}
+.gear{
+    margin-top: 140px;
+}
+.peach{
+    position: absolute;
+    left: 170px;
+    bottom: -4770px;
+    top: 5470px;
+}
+.aroo{
+    position: absolute;
+    left: 558px;
+    bottom: -4770px;
+    top: 5470px;
+}
+.biro{
+    position: absolute;
+    left: 925px;
+    bottom: -4770px;
+    top: 5470px;
+}
+.pip{
+    width: 100vw;
+    height: 500px;
+    background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/testimonials-woman.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: -350px;
+}
+.peo{
+    margin-top: 350px;
+}
+
+.jk{
+   margin-top: 20px;
+   position: absolute;
+   left: 880px;
+   top: 6318px;
+   width: 380px;
+}
+
